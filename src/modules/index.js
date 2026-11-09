@@ -6,14 +6,14 @@
 //   <ten>.repo.js       -> câu SQL (chỉ chỗ này được viết SQL)
 //   <ten>.schema.js     -> schema zod cho form
 // `middleware` (tuỳ chọn) chạy trước mọi route của module, VD: [requireAuth].
-import homeRoutes from './home/home.routes.js';
 import authRoutes from './auth/auth.routes.js';
 import { requireAuth, requireRole } from '#middleware/auth.js'; // dùng: middleware: [requireAuth]
+import uploadsRoutes from './uploads/uploads.routes.js';
 // [vibe:module-imports]
 
 export const modules = [
-  { path: '/', router: homeRoutes },
   { path: '/', router: authRoutes },
+  { path: '/uploads', router: uploadsRoutes, middleware: [requireAuth] },
   // [vibe:module-mounts]
 ];
 

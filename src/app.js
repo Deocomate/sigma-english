@@ -39,8 +39,10 @@ export function createApp() {
   app.set('view engine', 'hbs');
   app.set('views', VIEWS);
 
-  // App học tiếng Anh dạng 1 file (có script/style nội tuyến) -> phục vụ trước helmet để CSP không chặn.
-  app.use('/app', express.static(path.join(ROOT, 'learning-app'), { maxAge: config.isProd ? '1h' : 0 }));
+  // App học tiếng Anh (có script/style nội tuyến) phục vụ ở gốc "/", đặt trước helmet để CSP không chặn.
+  // Link cũ /app/ vẫn dùng được: chuyển về gốc.
+  app.get(['/app', '/app/*splat'], (req, res) => res.redirect(301, '/'));
+  app.use(express.static(path.join(ROOT, 'learning-app'), { maxAge: config.isProd ? '1h' : 0 }));
 
   app.use(helmet({ contentSecurityPolicy: { directives: { 'upgrade-insecure-requests': null } } }));
   app.use(express.static(path.join(ROOT, 'public'), { maxAge: config.isProd ? '7d' : 0 }));

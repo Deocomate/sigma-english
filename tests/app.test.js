@@ -4,13 +4,25 @@ import { setup, postForm } from './helpers.js';
 
 const { agent } = await setup();
 
-test('trang chủ chuyển thẳng vào app học tiếng Anh', async () => {
-  const first = await agent.get('/');
-  assert.equal(first.status, 302);
-  assert.equal(first.headers.location, '/app/');
-  const res = await agent.get('/').redirects(5);
+test('gốc / là app học tiếng Anh (không chuyển hướng)', async () => {
+  const res = await agent.get('/');
   assert.equal(res.status, 200);
-  assert.match(res.text, /<title>/);
+  assert.match(res.text, /<title>Sigma English<\/title>/);
+  assert.match(res.text, /id="account-bar"/);
+});
+
+test('link cũ /app/ chuyển về gốc', async () => {
+  const res = await agent.get('/app/');
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.location, '/');
+});
+
+test('/api/me cho biết trạng thái đăng nhập và cho phép đăng ký', async () => {
+  const res = await agent.get('/api/me');
+  assert.equal(res.status, 200);
+  assert.equal(res.body.user, null);
+  assert.equal(res.body.allowSignup, true);
+  assert.ok(res.body.csrfToken);
 });
 
 test('healthz trả về ok', async () => {
@@ -41,8 +53,10 @@ test('header bảo mật được bật', async () => {
   assert.equal(res.headers['x-powered-by'], undefined);
 });
 
-test('app học tiếng Anh (learning-app) được phục vụ tại /app/', async () => {
-  const res = await agent.get('/app/');
-  assert.equal(res.status, 200);
-  assert.match(res.text, /<html/i);
+test('file của app học và của khung dự án không đè lên nhau', async () => {
+  for (const url of ['/learn/app.js', '/learn/content.js', '/learn/app.css', '/learn/account-bar.js']) {
+    assert.equal((await agent.get(url)).status, 200, url);
+  }
+  assert.equal((await agent.get('/css/app.css')).status, 200); // giao diện Tailwind của trang đăng nhập
+  assert.equal((await agent.get('/js/app.js')).status, 200);
 });

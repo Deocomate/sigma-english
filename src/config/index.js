@@ -25,7 +25,13 @@ export const config = Object.freeze({
   auth: Object.freeze({
     adminEmail: env.ADMIN_EMAIL || undefined,
     adminPassword: env.ADMIN_PASSWORD || undefined,
-    allowSignup: env.ALLOW_SIGNUP === 'true',
+    // Ai cũng tự đăng ký được, trừ khi đặt ALLOW_SIGNUP=false.
+    allowSignup: env.ALLOW_SIGNUP !== 'false',
+  }),
+  uploads: Object.freeze({
+    dir: env.UPLOADS_DIR || 'data/uploads',
+    maxBytes: Number(env.UPLOAD_MAX_MB ?? 5) * 1024 * 1024, // nginx cũng phải cho phép cỡ này
+    maxPerUser: Number(env.UPLOAD_MAX_FILES ?? 100),
   }),
   // [vibe:config]
 });

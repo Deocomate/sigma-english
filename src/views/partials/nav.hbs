@@ -6,7 +6,8 @@
     </a>
 
     <nav class="flex flex-1 items-center gap-1 overflow-x-auto" aria-label="Điều hướng chính">
-      {{> nav-link href="/" label="Trang chủ"}}
+      {{> nav-link href="/" label="Học tiếng Anh"}}
+      {{#if currentUser}}{{> nav-link href="/uploads" label="File của tôi"}}{{/if}}
       {{!-- [vibe:nav-links] Thêm link module mới: {{> nav-link href="/tasks" label="Công việc"}} --}}
     </nav>
 

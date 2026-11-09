@@ -55,6 +55,16 @@ export async function signup(req, res) {
   res.redirect('/');
 }
 
+/** Cho trang tĩnh (app học) biết ai đang đăng nhập; csrfToken để gọi POST như đăng xuất. */
+export function me(req, res) {
+  res.set('Cache-Control', 'no-store');
+  res.json({
+    user: req.user ? { name: req.user.name, role: req.user.role } : null,
+    csrfToken: res.locals.csrfToken,
+    allowSignup: config.auth.allowSignup,
+  });
+}
+
 export function logout(req, res) {
   req.session = null;
   res.redirect('/login');

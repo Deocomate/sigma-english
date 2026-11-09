@@ -8,11 +8,11 @@ import { DatabaseSync } from 'node:sqlite';
 import { config } from '#config';
 
 const { url, authToken } = config.db;
-const isLocalFile = url.startsWith('file:');
+const isLocalFile = url.startsWith('file:') || url === ':memory:';
 
 /** Bọc node:sqlite thành client có cùng giao diện với @libsql/client (execute, executeMultiple, batch). */
 function createLocalClient(file) {
-  fs.mkdirSync(path.dirname(path.resolve(file)), { recursive: true });
+  if (file !== ':memory:') fs.mkdirSync(path.dirname(path.resolve(file)), { recursive: true });
   const sqlite = new DatabaseSync(file);
   const bind = (args) => args.map((v) => (v === undefined ? null : typeof v === 'boolean' ? Number(v) : v));
 
@@ -47,7 +47,7 @@ function createLocalClient(file) {
 }
 
 async function createDb() {
-  if (isLocalFile) return createLocalClient(url.slice('file:'.length));
+  if (isLocalFile) return createLocalClient(url.startsWith('file:') ? url.slice('file:'.length) : url);
   const { createClient } = await import('@libsql/client');
   return createClient({ url, authToken });
 }

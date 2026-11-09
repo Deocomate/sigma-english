@@ -14,3 +14,6 @@ assets/
 
 # Thông tin truy cập server: tuyệt đối không commit
 .ssh
+
+# File người dùng tải lên
+data/uploads/

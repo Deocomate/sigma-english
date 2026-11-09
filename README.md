@@ -43,9 +43,10 @@ Xem hướng dẫn trong `render.yaml` (Render free + Turso free) hoặc `npm ru
 ## App học (learning-app/)
 ```
 learning-app/
-  index.html     khung trang
-  css/app.css    giao diện
-  js/content.js  nội dung bài học (từ vựng, ngữ pháp, bài đọc, đề)
-  js/app.js      logic: lưu trữ, quiz, CAT4, khu phụ huynh
+  index.html              khung trang (phục vụ ở gốc /)
+  learn/app.css           giao diện
+  learn/content.js        nội dung bài học (từ vựng, ngữ pháp, bài đọc, đề)
+  learn/app.js            logic: lưu trữ, quiz, CAT4, khu phụ huynh
+  learn/account-bar.*     thanh đăng nhập / đăng ký / file của tôi
 ```
-Phục vụ tại `/app/` (bỏ qua CSP của helmet vì app dùng style/script riêng). Công cụ tạo dữ liệu CAT4: `tools/cat4/`.
+Phục vụ ở gốc `/` (đặt trước helmet nên không bị CSP chặn, vì app dùng style/script riêng). Thanh đăng nhập/đăng ký ở đầu trang do `learn/account-bar.js` vẽ, lấy trạng thái từ `/api/me`. Công cụ tạo dữ liệu CAT4: `tools/cat4/`.
