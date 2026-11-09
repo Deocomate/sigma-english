@@ -14,8 +14,9 @@
 ## Tính năng
 <!-- Cập nhật trạng thái: [x] xong · [ ] dự kiến -->
 - [x] Khung ứng dụng (trang chủ, xử lý lỗi, bảo mật cơ bản)
-- [x] App học tiếng Anh cũ (`learning-app/`, chạy ở chế độ local/localStorage; bản gốc xem docs/legacy-export.md)
+- [x] App học tiếng Anh cũ (`learning-app/` đã tách thành index.html + css/ + js/, chạy ở chế độ local/localStorage; bản gốc xem docs/legacy-export.md)
 - [x] Đăng nhập (admin tạo từ ADMIN_EMAIL/ADMIN_PASSWORD; tự đăng ký khi ALLOW_SIGNUP=true)
+- [ ] Đồng bộ dữ liệu app học lên backend và kiểm tra PIN phụ huynh phía máy chủ
 <!-- [vibe:features] -->
 
 ## Dữ liệu (bảng chính)
@@ -31,5 +32,6 @@
 
 ## Nhật ký thay đổi
 <!-- Mới nhất ở trên. Mỗi dòng: ngày — thay đổi — ai yêu cầu (nếu biết) -->
+- 2026-11-09 — Tách learning-app thành css/js, thêm docs/deployment.md.
 - 2026-11-09 — Gộp khung fullstack chuẩn với app học cũ, đưa lên GitHub public.
 - 2026-11-09 — Khởi tạo dự án.

@@ -2,6 +2,8 @@
 
 Ứng dụng web nội bộ: Node.js 22 · Express 5 · Handlebars · Tailwind CSS 4 · SQLite.
 
+Repo public. Hướng dẫn deploy: `docs/deployment.md`. Sổ tay dự án: `docs/PROJECT.md`.
+
 ## Chạy trên máy
 ```bash
 npm install
@@ -37,3 +39,13 @@ docs/PROJECT.md       sổ tay dự án
 
 ## Deploy free
 Xem hướng dẫn trong `render.yaml` (Render free + Turso free) hoặc `npm run share`.
+
+## App học (learning-app/)
+```
+learning-app/
+  index.html     khung trang
+  css/app.css    giao diện
+  js/content.js  nội dung bài học (từ vựng, ngữ pháp, bài đọc, đề)
+  js/app.js      logic: lưu trữ, quiz, CAT4, khu phụ huynh
+```
+Phục vụ tại `/app/` (bỏ qua CSP của helmet vì app dùng style/script riêng). Công cụ tạo dữ liệu CAT4: `tools/cat4/`.
