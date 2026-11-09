@@ -1,0 +1,204 @@
+#T Cảm xúc và tính cách
+cheerful|vui vẻ, tươi tắn|happy, jolly|gloomy|The cheerful girl smiled at everyone.
+gloomy|u ám, buồn bã|sad, glum|cheerful|The rainy day made him feel gloomy.
+furious|giận dữ|angry, livid|calm|Dad was furious when the window broke.
+calm|bình tĩnh|peaceful, relaxed|anxious|Stay calm during the test.
+anxious|lo lắng|worried, uneasy|relaxed|She felt anxious before her exam.
+terrified|khiếp sợ|scared, frightened|brave|The kitten was terrified of the dog.
+brave|dũng cảm|courageous, bold|cowardly|The brave firefighter saved the child.
+timid|rụt rè, nhút nhát|shy, bashful|confident|The timid boy hid behind his mum.
+confident|tự tin|sure, self-assured|timid|She gave a confident speech.
+proud|tự hào|pleased, honoured|ashamed|I am proud of my drawing.
+ashamed|xấu hổ|embarrassed, guilty|proud|He felt ashamed after telling a lie.
+jealous|ghen tị|envious|content|She was jealous of her friend's new bike.
+grateful|biết ơn|thankful|ungrateful|We are grateful for your help.
+generous|hào phóng, rộng rãi|kind, giving|selfish, mean|Our generous neighbour shared her cake.
+selfish|ích kỷ|greedy, self-centred|generous|It is selfish not to share your toys.
+honest|trung thực|truthful, sincere|dishonest|An honest boy returned the lost wallet.
+polite|lịch sự|courteous, well-mannered|rude|Be polite to your teachers.
+rude|thô lỗ, bất lịch sự|impolite|polite|It is rude to interrupt people.
+patient|kiên nhẫn|tolerant|impatient|Fishing needs a patient person.
+lazy|lười biếng|idle|hard-working|The lazy cat slept all day.
+diligent|chăm chỉ, siêng năng|hard-working|lazy|She is a diligent student.
+clever|thông minh|intelligent, smart|foolish|The clever fox found a way out.
+foolish|ngốc nghếch, dại dột|silly|wise|It was foolish to run across the road.
+wise|khôn ngoan, thông thái|sensible|foolish|The wise old man gave good advice.
+curious|tò mò|inquisitive|uninterested|Curious children ask many questions.
+bored|chán|uninterested, weary|excited|I was bored during the long trip.
+excited|hào hứng|thrilled|bored|The kids were excited about the school trip.
+eager|háo hức, mong muốn|keen, enthusiastic|reluctant|He was eager to start the game.
+reluctant|miễn cưỡng|unwilling|eager, willing|She was reluctant to jump into the cold water.
+lonely|cô đơn|alone, isolated|sociable|The new student felt lonely.
+friendly|thân thiện|kind, sociable|hostile|Our friendly dog loves visitors.
+cruel|độc ác|mean, heartless|kind|It is cruel to hurt animals.
+gentle|nhẹ nhàng, hiền|soft, tender|rough|Be gentle with the baby.
+stubborn|bướng bỉnh|obstinate|flexible|The stubborn donkey would not move.
+modest|khiêm tốn|humble|boastful|She is modest about her prizes.
+boastful|khoe khoang|arrogant, showy|modest|The boastful boy talked only about himself.
+loyal|trung thành|faithful|disloyal|A loyal friend always stays with you.
+cautious|thận trọng|careful|careless, reckless|Be cautious near the river.
+careless|bất cẩn|sloppy|careful|A careless mistake cost him a point.
+delighted|rất vui mừng|pleased, overjoyed|disappointed|I was delighted with my birthday gift.
+disappointed|thất vọng|let down|satisfied|He was disappointed to lose the match.
+astonished|kinh ngạc|amazed, surprised||She was astonished by the surprise party.
+miserable|khổ sở, đáng thương|unhappy, wretched|joyful|The wet puppy looked miserable.
+relieved|nhẹ nhõm|reassured|worried|I was relieved when I found my keys.
+cheeky|hỗn, láu lỉnh|impudent|respectful|The cheeky boy stuck out his tongue.
+sensible|hợp lý, biết điều|reasonable, wise|silly|Wearing a coat in winter is sensible.
+fierce|dữ tợn|ferocious, savage|gentle, tame|The fierce tiger roared.
+nervous|hồi hộp, lo|anxious, tense|calm|My hands shook because I was nervous.
+content|hài lòng, mãn nguyện|satisfied|dissatisfied|The cat looked content by the fire.
+grumpy|cáu kỉnh|bad-tempered, cross|cheerful|Grandpa is grumpy in the morning.
+#T Động từ
+shout|hét|yell, call out|whisper|Don't shout in the library.
+whisper|thì thầm|murmur|shout|She whispered a secret to me.
+grab|chộp, túm|seize, snatch|release|He grabbed the rope.
+release|thả ra|free, let go|capture|They released the bird into the sky.
+begin|bắt đầu|start, commence|finish, end|The show will begin at 7 o'clock.
+finish|kết thúc, làm xong|complete, end|start|Finish your homework first.
+build|xây|construct, make|destroy|They built a sandcastle.
+destroy|phá hủy|ruin, wreck|build, create|The storm destroyed the bridge.
+gather|thu thập, tụ họp|collect, assemble|scatter|We gathered shells on the beach.
+scatter|rải, tản ra|spread, disperse|gather|The birds scattered when the cat came.
+repair|sửa chữa|fix, mend|break, damage|Dad repaired my bike.
+damage|làm hư hại|harm, break|repair|The rain damaged the books.
+accept|chấp nhận|agree to, take|refuse, reject|She accepted the invitation.
+refuse|từ chối|decline, reject|accept|He refused to eat his vegetables.
+allow|cho phép|permit, let|forbid|Mum allows us to play after lunch.
+forbid|cấm|ban, prohibit|allow|Running is forbidden by the pool.
+rise|tăng, mọc lên|ascend, go up|fall, sink|The sun rises in the east.
+sink|chìm|go down|float|The stone sank to the bottom.
+float|nổi|drift|sink|The leaf floated on the water.
+hide|trốn, giấu|conceal|reveal, show|The cat hid under the bed.
+reveal|tiết lộ, để lộ|show, uncover|hide|The magician revealed the card.
+arrive|đến nơi|reach, come|leave, depart|We arrived at the airport early.
+depart|khởi hành, rời đi|leave, go|arrive|The train departs at 8 a.m.
+increase|tăng|grow, raise|decrease|Prices increased this year.
+decrease|giảm|reduce, lower|increase|The noise decreased at night.
+admire|ngưỡng mộ|respect, look up to|despise|I admire my teacher.
+praise|khen ngợi|compliment|criticise|The coach praised the team.
+criticise|chỉ trích, phê bình|find fault, blame|praise|He criticised the film.
+obey|vâng lời, tuân theo|follow, comply|disobey|Dogs can learn to obey commands.
+protect|bảo vệ|guard, defend|attack, harm|A helmet protects your head.
+attack|tấn công|charge, assault|defend|The lion attacked the zebra.
+wander|đi lang thang|roam, stroll||We wandered around the market.
+hurry|vội vàng|rush, dash|dawdle|Hurry or you'll miss the bus!
+chuckle|cười khúc khích|giggle, laugh|sob|He chuckled at the joke.
+sob|khóc nức nở|cry, weep|laugh|The child sobbed after falling over.
+stare|nhìn chằm chằm|gaze, gape|glance|It is rude to stare at people.
+glance|liếc nhìn|peek, glimpse|stare|She glanced at the clock.
+choose|chọn|select, pick|reject|Choose one card.
+discover|khám phá, phát hiện|find, uncover|lose|They discovered a hidden cave.
+invent|phát minh|create, devise|copy|Who invented the telephone?
+imitate|bắt chước|copy, mimic||Parrots can imitate sounds.
+explain|giải thích|describe, clarify|confuse|Please explain the rules.
+shiver|run (vì lạnh)|shake, tremble||We shivered in the snow.
+sprint|chạy nước rút|dash, race|stroll|He sprinted to the finish line.
+stroll|đi dạo|amble, wander|sprint|They strolled along the beach.
+nibble|gặm, nhấm|munch, bite|gobble|The mouse nibbled the cheese.
+gobble|ăn ngấu nghiến|devour, gulp|nibble|The dog gobbled its food.
+shrink|co lại|contract|grow, expand|My shirt shrank in the wash.
+expand|mở rộng, nở ra|grow, enlarge|shrink|The balloon expanded.
+remember|nhớ|recall|forget|Remember to bring your pencil.
+#T Tính từ mô tả
+enormous|khổng lồ|huge, gigantic|tiny|An enormous whale swam past the boat.
+tiny|tí hon|little, minute|enormous|A tiny ant carried a crumb.
+ancient|cổ xưa|old, antique|modern|We visited an ancient temple.
+modern|hiện đại|new, current|ancient, old-fashioned|They live in a modern flat.
+rapid|nhanh chóng|quick, swift|slow|The river has a rapid current.
+sluggish|chậm chạp, uể oải|slow, lazy|lively|I feel sluggish after a big lunch.
+shallow|nông||deep|The pool is shallow at this end.
+narrow|hẹp|thin, tight|wide, broad|The lane is too narrow for cars.
+broad|rộng|wide|narrow|He has broad shoulders.
+fragile|dễ vỡ|delicate, breakable|sturdy|Be careful, the glass is fragile.
+sturdy|chắc chắn|strong, solid|fragile, flimsy|We need a sturdy table.
+smooth|mịn, trơn|even, silky|rough|The stone felt smooth.
+rough|thô ráp, gồ ghề|coarse, bumpy|smooth|The rough road shook the car.
+transparent|trong suốt|clear, see-through|opaque|Windows are transparent.
+dim|mờ, tối|dark, faint|bright|The room was dim.
+brilliant|rực rỡ; xuất sắc|bright; excellent|dull|What a brilliant idea!
+dull|nhàm chán; xỉn màu|boring; dim|interesting; bright|The lesson was dull.
+plentiful|dồi dào|abundant, ample|scarce|Apples are plentiful in autumn.
+scarce|khan hiếm|rare, scant|plentiful|Water is scarce in the desert.
+empty|trống rỗng|vacant, bare|full|The box was empty.
+crowded|đông đúc|packed, busy|empty, deserted|The market was crowded.
+silent|im lặng|quiet, hushed|noisy|The classroom was silent.
+noisy|ồn ào|loud, rowdy|quiet|Noisy traffic woke me up.
+filthy|bẩn thỉu|dirty, grimy|clean, spotless|His boots were filthy.
+spotless|sạch bong|clean, immaculate|filthy|The kitchen was spotless.
+delicious|ngon|tasty|disgusting|The soup was delicious.
+bitter|đắng|sharp|sweet|Black coffee tastes bitter.
+damp|ẩm ướt|moist, wet|dry|Don't wear damp socks.
+freezing|lạnh cóng|icy, frosty|boiling|It's freezing outside.
+scorching|nóng như thiêu|boiling, sweltering|freezing|It was a scorching summer day.
+ordinary|bình thường|normal, usual|unusual, extraordinary|It was an ordinary day.
+unusual|lạ thường|strange, odd|ordinary|She has an unusual pet.
+simple|đơn giản|easy, plain|complicated|It was a simple question.
+complicated|phức tạp|complex, difficult|simple|The machine is complicated.
+accurate|chính xác|correct, exact|inaccurate|We need an accurate measurement.
+vague|mơ hồ|unclear, hazy|clear|He gave a vague answer.
+obvious|rõ ràng, hiển nhiên|clear, plain|hidden|The answer was obvious.
+valuable|quý giá|precious, costly|worthless|She lost a valuable ring.
+worthless|vô giá trị|useless|valuable|The fake coin is worthless.
+frequent|thường xuyên|regular, common|rare|We have frequent rain in June.
+rare|hiếm|uncommon|common|We saw a rare bird.
+vast|bao la, rộng lớn|huge, immense|small|The vast desert stretched for miles.
+steep|dốc|sheer|gentle, flat|We climbed a steep hill.
+hollow|rỗng|empty|solid|An owl lives in the hollow tree.
+dense|dày đặc|thick, compact|sparse|Dense fog covered the road.
+ripe|chín|mature, ready|unripe|Ripe bananas are yellow.
+fresh|tươi|new, crisp|stale|I love fresh bread.
+stale|ôi, cũ|old, dry|fresh|The biscuits were stale.
+gigantic|khổng lồ|huge, colossal|tiny|A gigantic wave hit the beach.
+entire|toàn bộ|whole, complete|partial|He ate the entire cake.
+#G Danh từ theo nhóm
+surgeon|bác sĩ phẫu thuật|Nghề nghiệp|A surgeon operates on patients.
+architect|kiến trúc sư|Nghề nghiệp|An architect designs buildings.
+carpenter|thợ mộc|Nghề nghiệp|A carpenter makes things from wood.
+plumber|thợ sửa ống nước|Nghề nghiệp|The plumber fixed the leaking pipe.
+pilot|phi công|Nghề nghiệp|The pilot landed the plane safely.
+author|tác giả|Nghề nghiệp|The author has written ten books.
+librarian|thủ thư|Nghề nghiệp|The librarian helped me find a book.
+chef|đầu bếp|Nghề nghiệp|The chef cooked a delicious meal.
+hammer|cái búa|Dụng cụ|Use a hammer to hit the nail.
+saw|cái cưa|Dụng cụ|He cut the wood with a saw.
+spanner|cờ lê|Dụng cụ|Use a spanner to tighten the bolt.
+needle|kim khâu|Dụng cụ|She sewed on the button with a needle.
+ladle|cái muôi (vá)|Dụng cụ bếp|Serve the soup with a ladle.
+whisk|cây đánh trứng|Dụng cụ bếp|Beat the eggs with a whisk.
+bakery|tiệm bánh|Nơi chốn|We buy bread at the bakery.
+library|thư viện|Nơi chốn|I borrow books from the library.
+stadium|sân vận động|Nơi chốn|The match is at the stadium.
+harbour|bến cảng|Nơi chốn|Boats are tied up in the harbour.
+orchard|vườn cây ăn quả|Nơi chốn|Apples grow in the orchard.
+museum|bảo tàng|Nơi chốn|We saw dinosaur bones at the museum.
+cub|con non (sư tử, gấu, cáo)|Con vật non|A lion cub played with its mother.
+calf|con bê|Con vật non|The calf drank milk from the cow.
+foal|ngựa con|Con vật non|The foal stood next to the horse.
+lamb|cừu non|Con vật non|A lamb follows its mother.
+kennel|chuồng chó|Nơi ở của con vật|The dog sleeps in a kennel.
+hive|tổ ong|Nơi ở của con vật|Bees live in a hive.
+stable|chuồng ngựa|Nơi ở của con vật|The horses rest in the stable.
+den|hang thú|Nơi ở của con vật|The fox hid in its den.
+valley|thung lũng|Thiên nhiên|A river runs through the valley.
+cliff|vách đá|Thiên nhiên|Seagulls nest on the cliff.
+stream|con suối|Thiên nhiên|We crossed a small stream.
+meadow|đồng cỏ|Thiên nhiên|Cows graze in the meadow.
+volcano|núi lửa|Thiên nhiên|The volcano erupted last year.
+glacier|sông băng|Thiên nhiên|A glacier is a slow river of ice.
+thermometer|nhiệt kế|Dụng cụ đo, khoa học|A thermometer measures temperature.
+telescope|kính thiên văn|Dụng cụ đo, khoa học|We looked at the moon through a telescope.
+microscope|kính hiển vi|Dụng cụ đo, khoa học|Germs can be seen under a microscope.
+compass|la bàn|Dụng cụ đo, khoa học|A compass points north.
+violin|đàn vi-ô-lông|Nhạc cụ|She plays the violin.
+trumpet|kèn trôm-pét|Nhạc cụ|He blew the trumpet loudly.
+drum|cái trống|Nhạc cụ|He beat the drum.
+flute|sáo|Nhạc cụ|She is learning the flute.
+dawn|bình minh|Thời gian|We woke up at dawn.
+dusk|hoàng hôn, chạng vạng|Thời gian|Bats fly out at dusk.
+century|thế kỷ|Thời gian|A century is 100 years.
+decade|thập kỷ|Thời gian|A decade is 10 years.
+skull|hộp sọ|Cơ thể|The skull protects the brain.
+lung|phổi|Cơ thể|We breathe with our lungs.
+wrist|cổ tay|Cơ thể|She wears a watch on her wrist.
+ankle|mắt cá chân|Cơ thể|He twisted his ankle playing football.

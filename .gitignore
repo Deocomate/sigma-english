@@ -1,0 +1,13 @@
+node_modules/
+.env
+data/*.db
+data/*.db-*
+public/css/app.css
+.bin/
+.run/
+*.log
+.DS_Store
+
+# Dữ liệu riêng tư của học sinh/phụ huynh (PIN, nhật ký, tiến độ) và ảnh tải lên: không đưa lên repo public
+database/
+assets/

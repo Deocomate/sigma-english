@@ -1,0 +1,204 @@
+#T Cảm xúc và tính cách
+ecstatic|cực kỳ hạnh phúc|elated, overjoyed|despondent|She was ecstatic about winning the prize.
+despondent|chán nản, tuyệt vọng|dejected, hopeless|hopeful|He felt despondent after failing the test.
+irritable|dễ cáu|grumpy, touchy|easy-going|Lack of sleep makes me irritable.
+serene|thanh thản, yên bình|tranquil, calm|agitated|The lake looked serene at sunrise.
+agitated|bồn chồn, kích động|flustered, upset|calm|The crowd grew agitated.
+apprehensive|e sợ, lo âu|uneasy, fearful|confident|She was apprehensive about the interview.
+courageous|can đảm|brave, valiant|cowardly|It was a courageous decision.
+cowardly|hèn nhát|fearful, spineless|brave|It was cowardly to run away.
+arrogant|kiêu ngạo|conceited, haughty|humble|The arrogant player ignored his team.
+humble|khiêm nhường|modest|arrogant|Despite her fame, she stayed humble.
+compassionate|giàu lòng trắc ẩn|caring, sympathetic|heartless|A compassionate nurse held his hand.
+indifferent|thờ ơ|unconcerned, uninterested|concerned|He was indifferent to the news.
+enthusiastic|nhiệt tình|keen, passionate|apathetic|She is an enthusiastic football fan.
+hostile|thù địch|unfriendly, aggressive|friendly|The guard gave us a hostile look.
+amiable|hòa nhã, dễ mến|friendly, pleasant|hostile|Our amiable host made us feel welcome.
+obstinate|ngoan cố|stubborn|flexible|The obstinate child refused to move.
+considerate|chu đáo, biết nghĩ cho người khác|thoughtful, kind|inconsiderate|It was considerate of you to call.
+sincere|chân thành|genuine, honest|insincere|He made a sincere apology.
+deceitful|gian dối|dishonest, sly|honest|The deceitful salesman lied to us.
+cunning|xảo quyệt, ranh mãnh|sly, crafty|naive|The cunning fox tricked the crow.
+naive|ngây thơ, cả tin|innocent, gullible|worldly|It was naive to believe the stranger.
+indebted|mang ơn|grateful, obliged||I am indebted to you for your help.
+envious|đố kỵ|jealous|content|He was envious of his brother's success.
+resentful|oán giận|bitter, aggrieved|forgiving|She felt resentful about the unfair decision.
+bewildered|bối rối, hoang mang|confused, puzzled||The tourist looked bewildered by the map.
+astounded|sửng sốt|stunned, amazed|unsurprised|We were astounded by the magic trick.
+frantic|cuống cuồng|panicky, desperate|calm|They made a frantic search for the keys.
+tranquil|yên tĩnh|peaceful, serene|turbulent|We sat in a tranquil garden.
+melancholy|u sầu|sorrowful, gloomy|joyful|She sang a melancholy song.
+jubilant|hân hoan|triumphant, joyful|dejected|Jubilant fans celebrated the win.
+reckless|liều lĩnh|rash, careless|cautious|Reckless driving causes accidents.
+prudent|thận trọng, khôn ngoan|wise, careful|rash|It is prudent to save some money.
+industrious|cần cù|hard-working, diligent|idle|Ants are industrious insects.
+idle|nhàn rỗi, lười|inactive, lazy|busy|The machines stood idle all week.
+meek|nhu mì, dễ bảo|gentle, submissive|assertive|The meek boy never complained.
+assertive|quả quyết, dám nói|confident, firm|meek|Be assertive when you share your ideas.
+tolerant|khoan dung|open-minded, patient|intolerant|A tolerant person respects others' views.
+vain|tự phụ (về ngoại hình)|conceited|modest|He is vain about his hair.
+candid|thẳng thắn|frank, open|evasive|She gave a candid answer.
+hesitant|do dự|unsure, reluctant|decisive|She was hesitant to speak in class.
+decisive|dứt khoát|firm, resolute|indecisive|A good captain is decisive.
+benevolent|nhân từ|kind, charitable|malicious|The benevolent king helped the poor.
+malicious|hiểm độc|spiteful, cruel|kind|Someone spread a malicious rumour.
+sullen|hờn dỗi, ủ rũ|sulky, moody|cheerful|He sat in sullen silence.
+eloquent|hùng biện, lưu loát|articulate, fluent|inarticulate|She gave an eloquent speech.
+inquisitive|ham hiểu biết|curious|uninterested|An inquisitive child asks "why?" a lot.
+conscientious|tận tâm, chu đáo|thorough, careful|careless|A conscientious student checks her work.
+impulsive|bốc đồng|rash, hasty|cautious|It was an impulsive decision.
+placid|điềm tĩnh|calm, even-tempered|excitable|The placid horse stood still.
+pessimistic|bi quan|negative, gloomy|optimistic|Don't be so pessimistic about the test.
+#T Động từ
+abandon|bỏ rơi, từ bỏ|desert, leave|keep|The crew abandoned the sinking ship.
+acquire|đạt được, có được|obtain, gain|lose|She acquired new skills at camp.
+conceal|che giấu|hide|reveal|He concealed the note in his pocket.
+disclose|tiết lộ|reveal, expose|conceal|They refused to disclose the secret.
+commence|bắt đầu|begin, start|conclude|The ceremony will commence at noon.
+conclude|kết thúc; kết luận|end; deduce|commence|The concert concluded with a song.
+construct|xây dựng|build, erect|demolish|They constructed a new bridge.
+demolish|phá bỏ|knock down, destroy|construct|Workers demolished the old building.
+accumulate|tích lũy|collect, gather|disperse|Dust accumulated on the shelf.
+disperse|giải tán, phân tán|scatter|gather|The crowd dispersed after the match.
+enlarge|phóng to|expand, magnify|reduce|Can you enlarge this photo?
+diminish|giảm bớt|decrease, lessen|increase|The pain slowly diminished.
+assist|hỗ trợ|help, aid|hinder|Please assist the new student.
+hinder|cản trở|obstruct, hamper|help|Heavy rain hindered the rescue.
+permit|cho phép|allow|prohibit|Photos are not permitted in the museum.
+prohibit|cấm|ban, forbid|permit|Smoking is prohibited here.
+applaud|vỗ tay; tán dương|clap, praise|condemn|The audience applauded loudly.
+condemn|lên án|denounce, criticise|praise|Everyone condemned the cruelty.
+persuade|thuyết phục|convince|dissuade|She persuaded him to join the club.
+hesitate|do dự, ngập ngừng|pause, waver||Don't hesitate to ask questions.
+purchase|mua|buy|sell|We purchased tickets online.
+inspect|kiểm tra kỹ|examine, check|overlook|The officer inspected the car.
+neglect|bỏ bê, sao nhãng|ignore, disregard|care for|Don't neglect your plants.
+cherish|trân trọng|treasure, value|neglect|She cherished the old photo.
+exaggerate|phóng đại|overstate|understate|He exaggerated the size of the fish.
+resemble|giống|look like|differ|She resembles her mother.
+vanish|biến mất|disappear|appear|The rabbit vanished into the hat.
+emerge|xuất hiện, nổi lên|appear, come out|disappear|A butterfly emerged from the cocoon.
+descend|đi xuống|go down|ascend|They descended the stairs slowly.
+ascend|đi lên|climb, rise|descend|The balloon ascended into the sky.
+flourish|phát triển mạnh|thrive, prosper|wither|Plants flourish in sunlight.
+wither|héo úa|wilt, shrivel|flourish|Flowers wither without water.
+consume|tiêu thụ|eat, use up|produce|Big cars consume a lot of fuel.
+produce|sản xuất|make, create|consume|Bees produce honey.
+retreat|rút lui|withdraw|advance|The army retreated at night.
+advance|tiến lên|progress, move forward|retreat|The soldiers advanced slowly.
+detest|ghét cay ghét đắng|hate, loathe|adore|I detest cold showers.
+adore|rất yêu thích|love, cherish|detest|She adores her little cat.
+comprehend|hiểu|understand, grasp|misunderstand|He couldn't comprehend the rules.
+anticipate|dự đoán, lường trước|expect, predict||We anticipate rain tomorrow.
+contradict|mâu thuẫn, cãi lại|deny, oppose|confirm|His story contradicts the facts.
+confirm|xác nhận|verify, prove|deny|Please confirm your booking.
+strengthen|củng cố, làm mạnh|reinforce|weaken|Exercise strengthens muscles.
+quiver|run rẩy|tremble, shake||Her lip quivered with fear.
+linger|nán lại|stay, remain|hurry away|Guests lingered after dinner.
+devour|ăn ngấu nghiến|gobble, consume|nibble|The lion devoured its prey.
+scrutinise|xem xét kỹ lưỡng|examine, inspect|glance at|The teacher scrutinised my essay.
+alter|thay đổi|change, modify|preserve|We altered our plans.
+preserve|bảo tồn|protect, conserve|destroy|We must preserve the forests.
+interrupt|ngắt lời|disturb, cut in||Please don't interrupt me.
+#T Tính từ mô tả
+immense|bao la, rất lớn|huge, vast|minute|The ocean is immense.
+minute|cực nhỏ (đọc /maɪˈnjuːt/)|tiny, microscopic|immense|Minute specks of dust floated in the air.
+colossal|đồ sộ|enormous, gigantic|tiny|A colossal statue stood by the harbour.
+antique|cổ (đồ cổ)|old, vintage|modern|Grandma has an antique clock.
+contemporary|đương đại|modern, current|ancient|We visited a contemporary art gallery.
+swift|nhanh|rapid, quick|slow|Thank you for your swift reply.
+abundant|dồi dào|plentiful, ample|scarce|Fish are abundant in this lake.
+meagre|ít ỏi, nghèo nàn|scanty, small|abundant|They ate a meagre meal of rice.
+sparse|thưa thớt|thin, scattered|dense|Grass is sparse in the desert.
+robust|khỏe mạnh, chắc chắn|sturdy, strong|frail|This is a robust phone case.
+frail|yếu ớt, mảnh khảnh|weak, delicate|robust|The frail old lady used a stick.
+flimsy|mỏng manh, ọp ẹp|weak, fragile|sturdy|The flimsy tent blew away.
+opaque|đục, không trong suốt|cloudy|transparent|The bathroom has opaque glass.
+luminous|phát sáng|glowing, bright|dark|My watch has a luminous face.
+murky|đục ngầu, u ám|cloudy, gloomy|clear|We couldn't see through the murky water.
+vivid|sống động, rực rỡ|bright, colourful|dull|I had a vivid dream last night.
+monotonous|đơn điệu|boring, repetitive|varied|He spoke in a monotonous voice.
+desolate|hoang vắng|deserted, bleak|lively|They were stranded on a desolate island.
+bustling|nhộn nhịp|busy, lively|quiet|Hanoi's Old Quarter is bustling at night.
+deafening|điếc tai|thunderous, loud|quiet|The fireworks were deafening.
+inaudible|không nghe thấy được|silent, faint|audible|Her whisper was almost inaudible.
+immaculate|tinh tươm, hoàn hảo|spotless, perfect|filthy|His uniform was immaculate.
+squalid|bẩn thỉu, tồi tàn|filthy, dirty|clean|They lived in a squalid hut.
+humid|nồm, ẩm (thời tiết)|damp, muggy|dry|Hanoi is very humid in spring.
+arid|khô cằn|dry, parched|wet|Few plants grow in arid land.
+fertile|màu mỡ|rich, productive|barren|Rice grows well in fertile soil.
+barren|cằn cỗi|infertile, bare|fertile|Nothing grows on the barren hill.
+conventional|thông thường, truyền thống|usual, traditional|unconventional|She solved it the conventional way.
+peculiar|kỳ quặc|strange, odd|normal|There's a peculiar smell in here.
+intricate|tinh xảo, rắc rối|complex, detailed|simple|The carpet has an intricate pattern.
+elementary|cơ bản|basic, simple|advanced|This is elementary maths.
+precise|chính xác|exact, accurate|approximate|Give me precise instructions.
+ambiguous|mơ hồ, nhiều nghĩa|unclear, vague|clear|The question was ambiguous.
+evident|rõ ràng|obvious, apparent|unclear|It was evident that she was tired.
+priceless|vô giá|invaluable, precious|worthless|The museum has a priceless painting.
+trivial|vặt vãnh|minor, unimportant|significant|Don't worry about trivial problems.
+significant|quan trọng, đáng kể|important, major|trivial|There was a significant change.
+occasional|thỉnh thoảng|infrequent|regular|We expect occasional showers.
+perpetual|liên miên, mãi mãi|constant, endless|temporary|The perpetual noise kept me awake.
+temporary|tạm thời|short-term|permanent|This is only a temporary job.
+permanent|lâu dài, vĩnh viễn|lasting|temporary|Use a permanent marker.
+hazardous|nguy hiểm|dangerous, risky|safe|Keep hazardous chemicals locked away.
+feeble|yếu ớt; kém cỏi|weak|strong|That is a feeble excuse.
+compact|nhỏ gọn|small, neat|bulky|I bought a compact camera.
+bulky|cồng kềnh|large, heavy|compact|The bulky parcel didn't fit in the car.
+rigid|cứng; cứng nhắc|stiff, inflexible|flexible|The school has rigid rules.
+flexible|linh hoạt, dẻo|bendable, adaptable|rigid|My dad has flexible working hours.
+genuine|thật, chính hiệu|real, authentic|fake|Is this a genuine diamond?
+counterfeit|giả mạo|fake, forged|genuine|The police found counterfeit money.
+obsolete|lỗi thời|outdated|modern|Floppy disks are now obsolete.
+#G Danh từ theo nhóm
+pharmacist|dược sĩ|Nghề nghiệp|A pharmacist prepares medicine.
+journalist|nhà báo|Nghề nghiệp|The journalist wrote about the flood.
+sculptor|nhà điêu khắc|Nghề nghiệp|A sculptor carves statues.
+geologist|nhà địa chất học|Nghề nghiệp|A geologist studies rocks.
+mechanic|thợ máy|Nghề nghiệp|The mechanic repaired the engine.
+vet|bác sĩ thú y|Nghề nghiệp|The vet treated our dog.
+astronomer|nhà thiên văn học|Nghề nghiệp|An astronomer studies the stars.
+cartographer|người vẽ bản đồ|Nghề nghiệp|A cartographer draws maps.
+lawyer|luật sư|Nghề nghiệp|The lawyer spoke in court.
+scalpel|dao mổ|Dụng cụ nghề|A surgeon cuts with a scalpel.
+stethoscope|ống nghe|Dụng cụ nghề|The doctor listened with a stethoscope.
+easel|giá vẽ|Dụng cụ nghề|The painter put the canvas on an easel.
+palette|bảng pha màu|Dụng cụ nghề|She mixed colours on a palette.
+anvil|cái đe|Dụng cụ nghề|The blacksmith hammered iron on an anvil.
+chisel|cái đục|Dụng cụ nghề|The sculptor shaped the stone with a chisel.
+audience|khán giả|Từ chỉ nhóm|The audience clapped for a long time.
+crew|thủy thủ đoàn, ê-kíp|Từ chỉ nhóm|The ship's crew worked all night.
+orchestra|dàn nhạc giao hưởng|Từ chỉ nhóm|The orchestra played Mozart.
+jury|bồi thẩm đoàn; ban giám khảo|Từ chỉ nhóm|The jury chose the winner.
+flock|đàn (chim, cừu)|Tên đàn con vật|A flock of sheep crossed the road.
+herd|đàn (gia súc lớn)|Tên đàn con vật|A herd of elephants drank at the river.
+swarm|đàn (ong, côn trùng)|Tên đàn con vật|A swarm of bees flew past.
+shoal|đàn cá|Tên đàn con vật|A shoal of fish swam under the boat.
+kid|dê con|Con vật non|The kid followed its mother goat.
+cygnet|thiên nga con|Con vật non|A cygnet is a baby swan.
+fawn|nai con|Con vật non|The fawn hid in the long grass.
+piglet|lợn con|Con vật non|Five piglets slept together.
+gosling|ngỗng con|Con vật non|A gosling is a young goose.
+mare|ngựa cái|Con vật giống cái|The mare stood beside her foal.
+ewe|cừu cái|Con vật giống cái|The ewe fed her lamb.
+vixen|cáo cái|Con vật giống cái|A vixen is a female fox.
+burrow|hang (thỏ, chuột)|Nơi ở của con vật|Rabbits live in a burrow.
+sty|chuồng lợn|Nơi ở của con vật|The pigs rolled in the mud in their sty.
+eyrie|tổ đại bàng|Nơi ở của con vật|Eagles build an eyrie on high cliffs.
+lair|hang ổ (thú dữ)|Nơi ở của con vật|The wolf returned to its lair.
+peninsula|bán đảo|Địa lý|Italy is a peninsula.
+plateau|cao nguyên|Địa lý|The Central Highlands are a plateau.
+estuary|cửa sông|Địa lý|The river meets the sea at the estuary.
+canyon|hẻm núi|Địa lý|The Grand Canyon is very deep.
+archipelago|quần đảo|Địa lý|Indonesia is an archipelago.
+delta|đồng bằng châu thổ|Địa lý|Farmers grow rice in the Mekong Delta.
+hypothesis|giả thuyết|Khoa học|Test your hypothesis with an experiment.
+experiment|thí nghiệm|Khoa học|We did an experiment with magnets.
+molecule|phân tử|Khoa học|A water molecule is very small.
+organism|sinh vật|Khoa học|Bacteria are tiny organisms.
+novel|tiểu thuyết|Văn học|She is reading a long novel.
+biography|tiểu sử|Văn học|I read a biography of Albert Einstein.
+autobiography|tự truyện|Văn học|In his autobiography he wrote about his childhood.
+fable|truyện ngụ ngôn|Văn học|"The Tortoise and the Hare" is a fable.
+anthology|tuyển tập|Văn học|We bought an anthology of poems.
