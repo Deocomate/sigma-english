@@ -18,7 +18,7 @@ async function main() {
     );
   }
 
-  const server = createApp().listen(config.port, () => {
+  const server = createApp().listen(config.port, config.host, () => {
     console.info(`[server] ${config.appName} chạy tại http://localhost:${config.port} (${config.env})`);
   });
 

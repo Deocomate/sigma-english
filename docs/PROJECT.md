@@ -8,7 +8,7 @@
 - Giải quyết việc gì: học từ vựng/ngữ pháp, luyện CAT4; app học 1 file nằm ở `learning-app/index.html`, phục vụ tại `/app/`
 
 ## Link
-- Link chia sẻ / production: (chưa deploy)
+- Link chia sẻ / production: https://sigma-english.thceramics.admirable.site (VPS, chi tiết ở docs/deployment.md)
 - Repo: https://github.com/Deocomate/sigma-english
 
 ## Tính năng
@@ -28,10 +28,11 @@
 
 ## Quyết định quan trọng
 - `database/` và `assets/` (PIN phụ huynh, nhật ký, tiến độ trẻ em, ảnh chụp màn hình) bị gitignore vì repo public.
-- Stack: Node.js 22 + Express 5 + Handlebars + Tailwind CSS 4 + SQLite (libsql).
+- Stack: Node.js 22 + Express 5 + Handlebars + Tailwind CSS 4 + SQLite (node:sqlite cho file local, libsql cho Turso).
 
 ## Nhật ký thay đổi
 <!-- Mới nhất ở trên. Mỗi dòng: ngày — thay đổi — ai yêu cầu (nếu biết) -->
+- 2026-11-09 — Deploy lên VPS; đổi driver SQLite local sang node:sqlite; thêm biến HOST.
 - 2026-11-09 — Tách learning-app thành css/js, thêm docs/deployment.md.
 - 2026-11-09 — Gộp khung fullstack chuẩn với app học cũ, đưa lên GitHub public.
 - 2026-11-09 — Khởi tạo dự án.

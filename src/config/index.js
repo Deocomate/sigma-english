@@ -12,6 +12,7 @@ export const config = Object.freeze({
   isTest: nodeEnv === 'test',
   onRender: Boolean(env.RENDER), // Render tự đặt biến RENDER
   port: Number(env.PORT ?? 3000),
+  host: env.HOST || undefined, // đặt 127.0.0.1 khi chạy sau nginx để chỉ nginx truy cập được
   appName: env.APP_NAME ?? 'Sigma English',
   timezone: env.APP_TIMEZONE || 'Asia/Ho_Chi_Minh',
   locale: env.APP_LOCALE || 'vi-VN',
