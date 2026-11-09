@@ -16,19 +16,19 @@ test('trang đăng nhập hiển thị', async () => {
 });
 
 test('sai mật khẩu -> báo lỗi chung, không lộ email có tồn tại hay không', async () => {
-  const res = await postForm(agent, '/login', { email: TEST_ADMIN.email, password: 'sai' }, { from: '/login' });
+  const res = await postForm(agent, '/login', { email: TEST_ADMIN.email, password: 'sai' });
   assert.equal(res.status, 422);
   assert.match(res.text, /Email hoặc mật khẩu không đúng/);
 });
 
 test('admin đăng nhập, thấy tên trên menu, rồi đăng xuất', async () => {
   await loginAsAdmin(agent);
-  const home = await agent.get('/').redirects(5); // trang chủ có thể chuyển hướng tới module chính
+  const home = await agent.get('/khong-ton-tai'); // trang bất kỳ dùng layout chung có menu
   assert.match(home.text, /Đăng xuất/);
 
-  const out = await postForm(agent, '/logout', {}, { from: '/' });
+  const out = await postForm(agent, '/logout', {}, { from: '/khong-ton-tai' });
   assert.equal(out.status, 302);
-  assert.match((await agent.get('/').redirects(5)).text, /href="\/login"/);
+  assert.match((await agent.get('/khong-ton-tai')).text, /href="\/login"/);
 });
 
 test('đăng ký tài khoản mới (khi ALLOW_SIGNUP=true)', async () => {
@@ -54,7 +54,6 @@ test('next chỉ chuyển hướng nội bộ (chống open redirect)', async ()
     agent,
     '/login',
     { ...TEST_ADMIN, next: 'https://evil.example' },
-    { from: '/login' },
   );
   assert.equal(res.headers.location, '/');
 });

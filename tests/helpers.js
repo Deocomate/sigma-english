@@ -23,8 +23,11 @@ export async function setup() {
   return { app, agent: request.agent(app) };
 }
 
-/** Lấy CSRF token từ HTML của một trang có form. */
-export async function csrfToken(agent, path = '/') {
+// Trang 404 dùng layout chung (luôn có meta csrf-token), mở được cả khi đã đăng nhập.
+const PAGE_WITH_TOKEN = '/khong-ton-tai';
+
+/** Lấy CSRF token từ HTML của một trang dùng layout chung. */
+export async function csrfToken(agent, path = PAGE_WITH_TOKEN) {
   const res = await agent.get(path).redirects(3);
   const match = res.text.match(/name="csrf-token" content="([^"]+)"/);
   if (!match) throw new Error(`Không thấy csrf-token ở ${path}`);
@@ -32,7 +35,7 @@ export async function csrfToken(agent, path = '/') {
 }
 
 /** Gửi form POST kèm CSRF như trình duyệt thật. */
-export async function postForm(agent, path, data = {}, { from = '/' } = {}) {
+export async function postForm(agent, path, data = {}, { from = PAGE_WITH_TOKEN } = {}) {
   const _csrf = await csrfToken(agent, from);
   return agent.post(path).type('form').send({ ...data, _csrf });
 }

@@ -2,8 +2,9 @@ import { Router } from 'express';
 
 const router = Router();
 
+// Trang đầu tiên khách thấy là app học tiếng Anh, không phải trang chào của khung dự án.
 router.get('/', (req, res) => {
-  res.render('home/index', { title: 'Trang chủ' });
+  res.redirect('/app/');
 });
 
 export default router;

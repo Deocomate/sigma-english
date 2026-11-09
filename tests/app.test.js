@@ -4,7 +4,10 @@ import { setup, postForm } from './helpers.js';
 
 const { agent } = await setup();
 
-test('trang chủ mở được (kể cả khi chuyển hướng tới trang chính/đăng nhập)', async () => {
+test('trang chủ chuyển thẳng vào app học tiếng Anh', async () => {
+  const first = await agent.get('/');
+  assert.equal(first.status, 302);
+  assert.equal(first.headers.location, '/app/');
   const res = await agent.get('/').redirects(5);
   assert.equal(res.status, 200);
   assert.match(res.text, /<title>/);
@@ -33,7 +36,7 @@ test('POST có CSRF đi qua được lớp bảo vệ', async () => {
 });
 
 test('header bảo mật được bật', async () => {
-  const res = await agent.get('/').redirects(5);
+  const res = await agent.get('/login');
   assert.ok(res.headers['content-security-policy']);
   assert.equal(res.headers['x-powered-by'], undefined);
 });
